@@ -1,2 +1,1 @@
-Hola soy valentinaassd
-cambio de lucas
+este es un proyecto de como crear una prueba de como crear un repositorio y clonarlo a mi escritorio 
